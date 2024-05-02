@@ -1,3 +1,10 @@
+# 16.4.3(2024-05-02)
+
+### Fix
+
+-   Fix ([#1358](https://github.com/JsDaddy/ngx-mask/issues/1358))
+
+
 ### Feature
 
 -   update ng 16.4.2
